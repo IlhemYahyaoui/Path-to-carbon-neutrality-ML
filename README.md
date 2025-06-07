@@ -35,3 +35,4 @@ This project explores the drivers of CO₂ emissions per capita across different
 **Decision Tree Regression**  
 This model provided the best balance between accuracy and interpretability. It captured non-linear relationships effectively and produced meaningful insights.
 
+**Kaggle Link:** https://www.kaggle.com/code/ilhemyahyaoui/ml-insights-on-the-path-to-carbon-neutrality
